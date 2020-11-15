@@ -1,0 +1,28 @@
+body{
+	background-color: rgba(202,202,202,1.00);
+}
+.text{
+	font-family: Arial;
+	font-size: 20px;
+}
+h2{
+	font-size: 30px !important;
+}
+.aviso{
+	color: black;
+}
+
+.textarea{
+	width: 600px;
+	height: 100px;
+	resize: none;
+}
+.button{
+	background-color: rgba(66,139,215,1.00);
+	color: white;
+	border: none;
+	padding: 10px;
+}
+.inverter{
+	margin-left: 20px;
+}
